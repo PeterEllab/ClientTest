@@ -1,0 +1,5 @@
+C:\Users\pen\source\repos\ClientTest\ClientTest\bin\Release\net6.0\publish\ClientTest.exe
+C:\Users\pen\source\repos\ClientTest\ClientTest\bin\Release\net6.0\publish\ClientTest.dll
+C:\Users\pen\source\repos\ClientTest\ClientTest\bin\Release\net6.0\publish\ClientTest.deps.json
+C:\Users\pen\source\repos\ClientTest\ClientTest\bin\Release\net6.0\publish\ClientTest.runtimeconfig.json
+C:\Users\pen\source\repos\ClientTest\ClientTest\bin\Release\net6.0\publish\ClientTest.pdb

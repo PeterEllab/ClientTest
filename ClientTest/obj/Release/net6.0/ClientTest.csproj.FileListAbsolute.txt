@@ -1,0 +1,15 @@
+C:\Users\pen\source\repos\ClientTest\ClientTest\bin\Release\net6.0\ClientTest.exe
+C:\Users\pen\source\repos\ClientTest\ClientTest\bin\Release\net6.0\ClientTest.deps.json
+C:\Users\pen\source\repos\ClientTest\ClientTest\bin\Release\net6.0\ClientTest.runtimeconfig.json
+C:\Users\pen\source\repos\ClientTest\ClientTest\bin\Release\net6.0\ClientTest.dll
+C:\Users\pen\source\repos\ClientTest\ClientTest\bin\Release\net6.0\ClientTest.pdb
+C:\Users\pen\source\repos\ClientTest\ClientTest\obj\Release\net6.0\ClientTest.csproj.AssemblyReference.cache
+C:\Users\pen\source\repos\ClientTest\ClientTest\obj\Release\net6.0\ClientTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pen\source\repos\ClientTest\ClientTest\obj\Release\net6.0\ClientTest.AssemblyInfoInputs.cache
+C:\Users\pen\source\repos\ClientTest\ClientTest\obj\Release\net6.0\ClientTest.AssemblyInfo.cs
+C:\Users\pen\source\repos\ClientTest\ClientTest\obj\Release\net6.0\ClientTest.csproj.CoreCompileInputs.cache
+C:\Users\pen\source\repos\ClientTest\ClientTest\obj\Release\net6.0\ClientTest.dll
+C:\Users\pen\source\repos\ClientTest\ClientTest\obj\Release\net6.0\refint\ClientTest.dll
+C:\Users\pen\source\repos\ClientTest\ClientTest\obj\Release\net6.0\ClientTest.pdb
+C:\Users\pen\source\repos\ClientTest\ClientTest\obj\Release\net6.0\ClientTest.genruntimeconfig.cache
+C:\Users\pen\source\repos\ClientTest\ClientTest\obj\Release\net6.0\ref\ClientTest.dll
